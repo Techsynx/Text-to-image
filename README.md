@@ -1,6 +1,4 @@
-Here is a more polished, professional version of the README file with relevant SVGs and icons added to make it more visually engaging. I've also organized the sections with more clarity and enhanced the language for readability.
 
----
 
 # **Text-to-Image Generator AI**  
 <img width="100" height="100" src="https://www.svgrepo.com/show/157883/image-generator.svg" alt="AI Generator Icon" />
@@ -60,16 +58,16 @@ This command will produce an image based on the provided text description.
 Here are some examples of generated images using SVG:
 
 ### **Simple Image**  
-```svg
+
 <svg width="100%" height="100%" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="10" y="10" width="80" height="80" fill="#4CAF50" rx="10" />
 </svg>
 ```
 
----
 
-### **Complex Image**  
-```svg
+
+ 
+
 <svg width="100%" height="100%" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
   <circle cx="50" cy="50" r="40" fill="#2196F3" />
   <rect x="20" y="20" width="60" height="60" fill="#F7DC6F" rx="10" />
