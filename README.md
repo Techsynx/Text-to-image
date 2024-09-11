@@ -1,4 +1,4 @@
-"
+
 
 # **Text-to-Image Generator AI**  
 <img width="100" height="100" src="![image](https://github.com/user-attachments/assets/e8b53959-b85d-4586-8992-c63c1f99a37d)
@@ -103,6 +103,4 @@ We’d love to hear your feedback, suggestions, and improvements!
 
 Thank you for exploring the **Text-to-Image Generator AI**. Feel free to reach out with any questions or suggestions! Happy image generating! 🎨
 
----  
 
-"
